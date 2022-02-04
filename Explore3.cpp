@@ -10,7 +10,7 @@ struct Point {
 };
 Point::Point() {
 	// Normally, you do not print in a constructor
-	cout << "In the default constructor" << endl;
+	cout << "In t he default constructor" << endl;
 	x = 0;
 	y = 0;
 }
